@@ -3,10 +3,10 @@ citHeader("To cite saveLavaanPlot2 in publications use:")
 citEntry(
 entry = "Manual",
 author = "Bazen, Jasmijn",
-doi = "10.5281/zenodo.14628399",
+doi = "10.5281/zenodo.14632385",
 month = "jan",
-title = "MagicXIV/saveLavaanPlot2: Version 0.2.2 - Working Release",
-version = "v-0.2.2",
+title = "MagicXIV/saveLavaanPlot2: Version 0.3.0 - First release",
+version = "v-0.3.0",
 year = "2025",
 url = "https://github.com/MagicXIV/saveLavaanPlot2"
 )
