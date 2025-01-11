@@ -1,6 +1,6 @@
-Package: saveLavaanPlot
+Package: saveLavaanPlot2
 Type: Package
-Title: Make and Save Plots with lavaanPlot
+Title: Save Plots with lavaanPlot
 Version: 0.2.2
 Authors@R: 
     person("Jasmijn", "Bazen", , "j.l.bazen@students.uu.nl", role = c("aut", "cre"))

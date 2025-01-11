@@ -1,13 +1,13 @@
-citHeader("To cite roundR in publications use:")
+citHeader("To cite saveLavaanPlot2 in publications use:")
 
 citEntry(
 entry = "Manual",
 author = "Bazen, Jasmijn",
 doi = "10.5281/zenodo.14628399",
 month = "jan",
-title = "MagicXIV/saveLavaanPlot: Version 0.2.2 - Working Release",
+title = "MagicXIV/saveLavaanPlot2: Version 0.2.2 - Working Release",
 version = "v-0.2.2",
 year = "2025",
-url = "https://github.com/MagicXIV/saveLavaanPlot"
-}
+url = "https://github.com/MagicXIV/saveLavaanPlot2"
+)
 

@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(saveLavaanPlot)
+library(saveLavaanPlot2)
 
-test_check("saveLavaanPlot")
+test_check("saveLavaanPlot2")
