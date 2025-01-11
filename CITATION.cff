@@ -1,0 +1,10 @@
+cff-version: 0.2.2
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bazen"
+  given-names: "Jasmijn Lisa"
+orcid: https://orcid.org/0009-0008-5583-4236
+title: "MagicXIV/saveLavaanPlot: Version 0.2.2 - Working Release"
+doi: 10.5281/zenodo.14628399
+version: v-0.2.2
+date-released: 2025-01-10
